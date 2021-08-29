@@ -1,4 +1,4 @@
-package com.example.interval.calculator.controller;
+package com.example.interval.calculator.controllers;
 
 import com.example.interval.calculator.entity.TimeInterval;
 import com.example.interval.calculator.service.CalculateIntervalService;
